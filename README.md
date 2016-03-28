@@ -1,6 +1,6 @@
-# ddp-project
+# Algorithmic Complexity of Short Strings
 
-Peer assessment project of Coursera's Developing Data Products MOOC.
+Demonstration of the acss package, peer assessment project of Coursera's Developing Data Products MOOC.
 
 Documentation available at
 http://rpubs.com/antonio_rt/acss-demo
